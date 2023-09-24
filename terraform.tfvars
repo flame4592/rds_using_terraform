@@ -1,0 +1,1 @@
+sg_name = "allow_public_traffic"
